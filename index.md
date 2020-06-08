@@ -3,7 +3,7 @@
 
 # Giffari Faqih Phrasya Hardani
 
-<img src="319.png" width="512">
+<img src="319.png" width="256">
 
 * Welcome to my page about operating systems
 
